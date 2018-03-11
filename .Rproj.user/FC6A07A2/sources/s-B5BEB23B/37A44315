@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520773312206.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "37A44315",
+    "lastKnownWriteTime" : 4611616864,
+    "last_content_update" : 1520773312206,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "381F5E9",
+        "caption" : "elec",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3Afma&obj=elec&cache_key=381F5E9",
+        "displayedObservations" : "476",
+        "environment" : "package:fma",
+        "object" : "elec",
+        "preview" : "0",
+        "totalObservations" : "476",
+        "variables" : "1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
