@@ -196,8 +196,8 @@ ts.sa[1]-271.66-2.51
 
 ts.sa[1]-271.66
 
-Assume that the trend was calculated using the following linear regression,
-Trend = 220 + 4t + 3t2 . What is the trend for Q3 Year1? What is the de-trended value for Q3 Year1?
+#Assume that the trend was calculated using the following linear regression,
+#Trend = 220 + 4t + 3t2 . What is the trend for Q3 Year1? What is the de-trended value for Q3 Year1?
   t=3
 trend = 220+4*t+3*(t)^2 trend
 
